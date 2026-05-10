@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url">https://kidsadventure-ff0fb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">182704151014</string>
+    <string name="google_api_key">AIzaSyA-WVo__W7DVavZ7Zm9mal4Ylg3mKYkzJ8</string>
+    <string name="google_app_id">1:182704151014:android:41042a495345a9c09f1e27</string>
+    <string name="google_crash_reporting_api_key">AIzaSyA-WVo__W7DVavZ7Zm9mal4Ylg3mKYkzJ8</string>
+    <string name="google_storage_bucket">kidsadventure-ff0fb.firebasestorage.app</string>
+    <string name="project_id">kidsadventure-ff0fb</string>
+</resources> 

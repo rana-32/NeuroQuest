@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "182704151014",
+    "project_id": "kidsadventure-ff0fb",
+    "storage_bucket": "kidsadventure-ff0fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182704151014:android:41042a495345a9c09f1e27",
+        "android_client_info": {
+          "package_name": "com.example.kids_adventure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182704151014-tmaqdhfvvb0ci9v54lc6pse1noor9l38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kids_adventure",
+            "certificate_hash": "7507285ee1a12cf8ae174c4e617b17503f86d9bf"
+          }
+        },
+        {
+          "client_id": "182704151014-4md0pqama0nme2opf9ulq8ub6vs78io5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-WVo__W7DVavZ7Zm9mal4Ylg3mKYkzJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182704151014-4md0pqama0nme2opf9ulq8ub6vs78io5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

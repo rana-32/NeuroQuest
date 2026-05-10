@@ -22,7 +22,7 @@ jobs:
       - run: flutter pub get
       - run: flutter build apk --release --no-tree-shake-icons
       
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: NeuroQuest-APK
           path: build/app/outputs/flutter-apk/app-release.apk
